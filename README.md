@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bgegeny
+- 👀 I’m interested in Front End Development
+- 🌱 I’m currently learning React and Web Development overall 
+- 📫 How to reach me: gegeny.benjamin@gmail.com
